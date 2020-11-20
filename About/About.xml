@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Tusken Gear Mod (Continued)</name>
+  <packageId>Mlie.TuskenGearMod</packageId>
+  <author>Worthless Wretch and Luwenstein</author>
+  <url>https://github.com/emipa606/TuskenGearMod</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Worthless Wretch and Luwensteins mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1285905055
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/TuskenGearMod][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+Tusken Gear Mod
+        
+        A mod which adds tusken raider apparel and weapons.
+        
+        All Star Wars™ references are made in pure love for the franchise and not in pursuit of profit
+
+- All items are crafted at machining table.
+- Rifle got a huge (really huge) range, mediocre damage and very long windup.
+- Armor and headgear are supposed to be worn in hot climates as they provide high temperature resistance. 
+- Female headgear can be worn by male colonists.</description>
+</ModMetaData>
