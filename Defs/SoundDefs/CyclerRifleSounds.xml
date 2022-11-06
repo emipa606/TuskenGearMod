@@ -9,7 +9,7 @@
       <li>
         <muteWhenPaused>False</muteWhenPaused>
         <grains>
-          <li Class="AudioGrain_Folder">
+          <li Class="AudioGrain_Clip">
             <clipPath>CyclerRifleShot</clipPath>
           </li>
         </grains>

@@ -1,5 +1,8 @@
 # Changelog for TuskenGearMod
 
+1.4.2 - Fixed the soundDefs
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 
