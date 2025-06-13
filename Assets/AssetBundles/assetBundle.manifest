@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 580187115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 064bcc4737c7cd4bbe4c1b502a21404e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 064bcc4737c7cd4bbe4c1b502a21404e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Female_east.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Thin_north.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Male_south.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Display/Apparel/Tusken_Garment.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Hats/FemaleTuskenEPHelmet_south.png
+- Assets/Data/Mlie.TuskenGearMod/Sounds/CyclerRifleShot.ogg
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Fat_east.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Hats/TuskenEPHelmet_south.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Hulk_north.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Item/Equipment/WeaponRanged/Cycler_Rifle.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Hats/FemaleTuskenEPHelmet_east.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Female_south.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Thin_south.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Hats/FemaleTuskenEPHelmet_north.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Hulk_south.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Item/Equipment/WeaponMelee/Gaderffii.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Female_north.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Hats/TuskenEPHelmet_east.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Fat_south.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Hulk_east.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Thin_east.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Male_east.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Fat_north.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Hats/TuskenEPHelmet_north.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Apparel/TuskenWraps_Male_north.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Display/Hats/TuskenEPHelmet.png
+- Assets/Data/Mlie.TuskenGearMod/Textures/Things/Apparel/Display/Hats/FemaleTuskenEPHelmet.png
+Dependencies: []

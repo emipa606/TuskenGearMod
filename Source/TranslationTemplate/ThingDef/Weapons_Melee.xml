@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gaderffii -->
+  <MeleeWeapon_Gaderffii.label>gaderffii</MeleeWeapon_Gaderffii.label>
+  <!-- EN: The gaderffii, or gaffi stick, is the traditional melee weapon of the Tusken Raiders of Tatooine. It is a pole weapon with a spike or blade on one end and some kind of bludgeoning instrument on the other. -->
+  <MeleeWeapon_Gaderffii.description>The gaderffii, or gaffi stick, is the traditional melee weapon of the Tusken Raiders of Tatooine. It is a pole weapon with a spike or blade on one end and some kind of bludgeoning instrument on the other.</MeleeWeapon_Gaderffii.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Gaderffii.tools.handle.label>handle</MeleeWeapon_Gaderffii.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Gaderffii.tools.point.label>point</MeleeWeapon_Gaderffii.tools.point.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cycler rifle bullet -->
+  <Bullet_Cycler_Rifle.label>cycler rifle bullet</Bullet_Cycler_Rifle.label>
+  <!-- EN: Cycler Rifle -->
+  <Gun_CyclerRifle.label>Cycler Rifle</Gun_CyclerRifle.label>
+  <!-- EN: The cycler is an older design of rifle and fits into the slugthrower class, firing solid shots enveloped in energy, not blaster bolts. The weapon emitted a unique sound when fired, rather like a cross between a blaster and a musket. -->
+  <Gun_CyclerRifle.description>The cycler is an older design of rifle and fits into the slugthrower class, firing solid shots enveloped in energy, not blaster bolts. The weapon emitted a unique sound when fired, rather like a cross between a blaster and a musket.</Gun_CyclerRifle.description>
+  <!-- EN: stock -->
+  <Gun_CyclerRifle.tools.stock.label>stock</Gun_CyclerRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_CyclerRifle.tools.barrel.label>barrel</Gun_CyclerRifle.tools.barrel.label>
+  <!-- EN: Cycler Rifle -->
+  <Gun_CyclerRifle.verbs.Verb_Shoot.label>Cycler Rifle</Gun_CyclerRifle.verbs.Verb_Shoot.label>
+</LanguageData>
